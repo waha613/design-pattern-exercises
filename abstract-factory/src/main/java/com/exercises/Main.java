@@ -5,6 +5,8 @@ import com.exercises.product.InterfaceController;
 import com.exercises.product.OperationController;
 import com.exercises.util.PropertiesUtil;
 
+import java.math.BigDecimal;
+
 /**
  * @author ll4859332@hotmail.com
  * @version V1.0
