@@ -24,4 +24,8 @@ public class LazySingleton {
         }
         return instance;
     }
+
+    public void dev1Method() {
+        System.out.println("dev-1   commit");
+    }
 }
