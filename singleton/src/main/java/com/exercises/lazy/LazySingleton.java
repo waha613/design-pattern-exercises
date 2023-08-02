@@ -32,4 +32,8 @@ public class LazySingleton {
     public void dev2Commit() {
         System.out.println("dev2  commit");
     }
+
+    public void dev3Commit() {
+        System.out.println("dev3  commit");
+    }
 }
